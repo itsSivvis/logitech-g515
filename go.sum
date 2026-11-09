@@ -1,0 +1,4 @@
+github.com/mevdschee/logirgb v0.5.1 h1:lPdMgJoNFEzY4GyzJSpN2PqvYv5Sh3fdWi56k/9HfPM=
+github.com/mevdschee/logirgb v0.5.1/go.mod h1:vb4Yns5iLpB9o7lyRjQWCv5YE5O5Xi6XjZJRcb2eKys=
+golang.org/x/sys v0.49.0 h1:XbzkgYJHdqh/8m2Uu0W/dQv8nktxx4BFHp1M0gROTXA=
+golang.org/x/sys v0.49.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=

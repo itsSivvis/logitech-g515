@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.chofmann.g515battery",
+        "Name": "G515 Akku",
+        "Description": "Zeigt den Akkustand der Logitech G515 Tastatur in Prozent an",
+        "Version": "1.0",
+        "License": "MIT",
+        "Icon": "input-keyboard-symbolic",
+        "Category": "System Information"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
